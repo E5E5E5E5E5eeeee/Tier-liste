@@ -1,6 +1,7 @@
 # 📊 Tier-List - Architecture SQL & Python
 
 Ce projet est une application complète de gestion de classement utilisant une base de données relationnelle SQLite.
+<img width="772" height="497" alt="image" src="https://github.com/user-attachments/assets/b5fba1b2-e225-4694-9ea8-03a727f4a888" />
 
 ## 🚀 Comment l'utiliser ?
 1. Exécutez `Base de donnée.py` pour initialiser le schéma SQL et les données.
